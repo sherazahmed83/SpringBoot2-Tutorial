@@ -1,7 +1,7 @@
 
--------------
-Instructions:
--------------
+----------------------
+Spring Boot2 Tutorial:
+----------------------
 
 This Spring Boot2 is an initial application, to check how it works without any security.
 
